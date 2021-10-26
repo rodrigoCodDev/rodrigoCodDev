@@ -13,9 +13,9 @@ I really like the computer area, I constantly do some studies and solve some pro
 
 </br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoCodDev&show_icons=true&theme=merko" height="200em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCodDev&layout=compact&theme=merko" height="200em"/>
+<div align="center" display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoCodDev&show_icons=true&theme=merko" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCodDev&layout=compact&theme=merko" height="160em"/>
 </div>
   
 <!--
