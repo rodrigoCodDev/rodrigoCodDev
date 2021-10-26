@@ -1,5 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
+</br>
+
+I'm **rodrigoCodDev** and this is my profile on github.
+
+I really like the computer area, I constantly do some studies and solve some problems with what I learned with it.
+
+</br>
+
+
+<h2>Languages and Tools</h2>
+
+</br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigoCodDev&show_icons=true&theme=merko" height="200em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCodDev&layout=compact&theme=merko" height="200em"/>
+</div>
+  
 <!--
 **rodrigoCodDev/rodrigoCodDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
