@@ -31,6 +31,7 @@ I really like the computer area, I constantly do some studies and solve some pro
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </div>
 
+![Snake animation](https://github.com/rodrigoCodDev/rodrigoCodDev/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **rodrigoCodDev/rodrigoCodDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
