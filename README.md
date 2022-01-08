@@ -15,6 +15,8 @@ I really like the computer area, I constantly do some studies and solve some pro
 
 <div align="center" display="flex">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigoCodDev&show_icons=true&theme=merko" height="160em"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigoCodDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCodDev&layout=compact&theme=merko" height="160em"/>
 </div>
   
