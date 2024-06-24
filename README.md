@@ -20,8 +20,6 @@ I really like the computer area, I constantly do some studies and solve some pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoCodDev&layout=compact&theme=merko" height="160em"/>
 </div>
 
-![Snake animation](https://github.com/rodrigoCodDev/rodrigoCodDev/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center" display="flex">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
